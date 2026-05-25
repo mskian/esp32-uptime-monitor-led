@@ -4,7 +4,7 @@ A lightweight ESP32 HTTPS uptime monitoring project with LED status indicators, 
 
 ---
 
-<img width="500" height="580" alt="photo_2026-05-25_18-28-19" src="https://github.com/user-attachments/assets/55870756-26bf-4cd1-9c58-a1af57b415d2" /> <img width="580" height="560" alt="photo_2026-05-25_18-28-29" src="https://github.com/user-attachments/assets/20c442e0-61b9-4982-96dd-2304a8328f54" />
+<img width="500" height="580" alt="ESP32 Uptime Monitor with led and push button" src="https://github.com/user-attachments/assets/55870756-26bf-4cd1-9c58-a1af57b415d2" /> <img width="580" height="560" alt="ESP32 Uptime Monitor" src="https://github.com/user-attachments/assets/20c442e0-61b9-4982-96dd-2304a8328f54" />
 
 ---
 

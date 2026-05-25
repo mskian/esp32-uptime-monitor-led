@@ -2,6 +2,12 @@
 
 A lightweight ESP32 HTTPS uptime monitoring project with LED status indicators, push button controls, WiFi auto reconnect, bulk website checking, and ntfy push notifications. Built using Arduino IDE with optimized CPU usage and stable HTTPS handling.  
 
+---
+
+<img width="500" height="580" alt="photo_2026-05-25_18-28-19" src="https://github.com/user-attachments/assets/55870756-26bf-4cd1-9c58-a1af57b415d2" /> <img width="580" height="560" alt="photo_2026-05-25_18-28-29" src="https://github.com/user-attachments/assets/20c442e0-61b9-4982-96dd-2304a8328f54" />
+
+---
+
 Fast and lightweight HTTPS uptime monitoring system using ESP32, LED indicators, push button controls, and ntfy notifications.  
 
 Monitor multiple HTTPS websites directly from your ESP32 with accurate LED status feedback, WiFi auto reconnect, retry handling, and low CPU usage.  

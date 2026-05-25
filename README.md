@@ -35,6 +35,10 @@ ESP32 + LED + Push Button based website monitoring system.
 - ✅ Stable LED synchronization
 - ✅ ESP32 optimized
 
+## 🎥 Demo Video
+
+Watch the live working demo of the ESP32 HTTPS Uptime Monitor project: <https://www.youtube.com/shorts/VhSiiZyeA0Q>  
+
 ## 🧰 Hardware Used
 
 | Component                  | Quantity |
